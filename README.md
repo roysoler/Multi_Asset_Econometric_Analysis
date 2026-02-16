@@ -1,4 +1,4 @@
-#Multi Asset Econometric Analysis
+# Multi Asset Econometric Analysis
 
 This project investigates long-run and short-run relationships among major macro-financial risk factors using modern econometric techniques. The analysis is conducted using daily data (aggregated where required) from January 2000 to August 2025.
 
